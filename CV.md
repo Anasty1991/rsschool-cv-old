@@ -3,9 +3,9 @@
 ![Ссылка на фото](https://sun9-81.userapi.com/impg/VYqu-UQh2T-0EyIsdyJHsishCuMWaWNzPseFYQ/n8tN3aHu7a4.jpg?size=1613x2160&quality=96&sign=3d529662c4ba78437de45f358f9a518c&type=album "My photo")
 
 # Contacts for communication  
-    + **location** : Russia, Izshevsk
-    + **phone**: +7 951 210 54 00
-    + **e-mail**: nazar300617@gmail.com
+     **location** : Russia, Izshevsk
+     **phone**: +7 951 210 54 00
+     **e-mail**: nazar300617@gmail.com
 # About me
     My goal is to become a highly qualified programmer in the market. 
     My tasks for the next year or two years are to acquire new knowledge, 
