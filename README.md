@@ -1,1 +1,1 @@
-https://Anasty1991.github.io/rsschool-cv/cv.md
+https://github.com/Anasty1991/rsschool-cv/blob/gh-pages/CV.md
