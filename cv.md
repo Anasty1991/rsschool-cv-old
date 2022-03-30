@@ -23,7 +23,8 @@
 
 ```
 function multiply(a, b){
-  return a * b;
+  var m = a * b;
+  return m;
 }
 ```
 # Work experience
